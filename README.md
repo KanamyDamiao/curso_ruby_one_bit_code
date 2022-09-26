@@ -7,3 +7,5 @@ Link do curso: https://onebitcode.com/course/ruby-puro/
 [Aula 1: Instalar ruby, primeiros passos, e hello world](https://github.com/KanamyDamiao/curso_ruby_one_bit_code/commit/c37022c1a12428197447222853dffe4cb05d1dd8)
 
 [Aula 2: Tipos de váriaveis, concatenar string, entradas terminal e operadores](https://github.com/KanamyDamiao/curso_ruby_one_bit_code/commit/5c3047cb177f0944f021da7f050c3de02cad440c)
+
+[Aula 3: Iterações e condicionais utilizando if, elsif, else, loop, for, while, do while](https://github.com/KanamyDamiao/curso_ruby_one_bit_code/commit/59d01d1c6bf958962d7e8e34e08e6cf1f20c1178)
